@@ -2,7 +2,7 @@
 <p align="center">My name is Dan and I'm a goal driven full stack software engineer. I enjoy writing clean, dry, human centered code. I have a curiosity for new technologies and how to implement them. I alway enjoy learning new ways and different technologies to achieve a goal.</p> 
 
 ⚡ Fun fact: <p align= "center">
-  This is Gus...and he's a very good boy. 
+  This is Gus...and he's a very good boy.<br> 
  <img align= "center" height="400" width="600" alt="Gus the dog" src = "https://github.com/dbennin125/dbennin125/blob/master/Gus.jpg"></p><br>
 
 📫 How to reach me: 
