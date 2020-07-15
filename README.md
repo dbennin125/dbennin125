@@ -11,6 +11,14 @@
   <a href = "https://www.linkedin.com/in/dan-bennington-4070451a5/"><img src = "https://github.com/dbennin125/dbennin125/blob/master/solidLinkedIn.png">
 </p>
 
+🔭 My current stack:
+<p align="left">
+Languages: JavaScript, HTML/CSS<br>
+Libraries: React, Node.js, Express.js, Mongoose<br>
+Databases: Postgres, MongoDB<br>
+Tools: Git, GitHub, Jest, Enzyme, QUnit, Heroku<br>
+</p>
+
 <!--
 **dbennin125/dbennin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
