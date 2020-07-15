@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">My name is Dan and I'm a goal oriented full stack software engineer. I enjoy writing clean, dry, human centered code. I have a curiosity for new technologies and how to implement them. I alway enjoy learning new ways and different technologies to achieve a goal.</p> 
+<p align="center">My name is Dan and I'm a goal oriented full stack software engineer. I enjoy writing clean, dry, human centered code. I have a curiosity for new technologies and how to implement them. I always enjoy learning new ways and different technologies to achieve a goal.</p> 
 
 ⚡ Fun fact: <p align= "center">
   This is Gus...and he's a very good boy.<br> 
