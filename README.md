@@ -1,9 +1,14 @@
 ### Hi there 👋
-<p align="center">My name is Dan and I'm a goal driven full stack software engineer. I enjoy writing clean, dry, human centered code. I have a curiosity for new technologies and I alway enjoy learning new ways/different technologies to achieve a goal.</p> 
+<p align="center">My name is Dan and I'm a goal driven full stack software engineer. I enjoy writing clean, dry, human centered code. I have a curiosity for new technologies and how to implement them. I alway enjoy learning new ways and different technologies to achieve a goal.</p> 
 
-⚡ Fun fact: <p align= "center">This is Gus...and he's a very good boy. <img align= "center" alt="Gus the dog" src = "https://github.com/dbennin125/dbennin125/blob/master/Gus.jpg"> </p><br>
+⚡ Fun fact: <p align= "center">
+  This is Gus...and he's a very good boy. 
+ <img align= "center" height="400" width="600" alt="Gus the dog" src = "https://github.com/dbennin125/dbennin125/blob/master/Gus.jpg"></p><br>
 
-📫 How to reach me: <p align= "center"><a href = "https://www.linkedin.com/in/dan-bennington-4070451a5/"><img src = "https://github.com/dbennin125/dbennin125/blob/master/solidLinkedIn.png"></p>
+📫 How to reach me: 
+<p align= "center">
+  <a href = "https://www.linkedin.com/in/dan-bennington-4070451a5/"><img src = "https://github.com/dbennin125/dbennin125/blob/master/solidLinkedIn.png">
+</p>
 
 <!--
 **dbennin125/dbennin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
