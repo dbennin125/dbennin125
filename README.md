@@ -1,5 +1,10 @@
 ### Hi there 👋
-<p align="center">My name is Dan and I'm a goal oriented full stack software engineer. I enjoy writing clean, dry, human centered code and have a curiosity for implementing new technologies.</p> 
+<p align="center">My name is Dan and I'm a goal oriented full stack software engineer. I enjoy writing clean, dry, human centered code and have a curiosity for implementing new technologies.<br>
+  Languages: JavaScript, HTML/CSS<br>
+Libraries: React, Node.js, Express.js, Mongoose<br>
+Databases: Postgres, MongoDB<br>
+Tools: Git, GitHub, Jest, Enzyme, QUnit, Heroku
+</p> 
 
 ⚡ Fun fact: <p align= "center">
   This is Gus...and he's a very good boy.<br> 
