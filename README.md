@@ -2,6 +2,7 @@
 My name is Dan and I'm a goal driven full stack software engineer. I enjoy writing clean, dry, human centered code. I have a curiosity for new technologies and I alway enjoy learning new ways/different technologies to achieve a goal. 
 
 📫 How to reach me: <p align= 'center'><a href = "https://www.linkedin.com/in/dan-bennington-4070451a5/"><img src = "https://github.com/dbennin125/dbennin125/blob/master/solidLinkedIn.png"> 
+⚡ Fun fact: <p align= 'center'>This is Gus...and he's a very good boy.<img src = "./Gus.jpg"> 
 <!--
 **dbennin125/dbennin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +14,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
