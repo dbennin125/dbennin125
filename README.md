@@ -8,7 +8,7 @@
 
 📫 How to reach me: 
 <p align= "center">
-  <a href = "https://www.linkedin.com/in/dan-bennington-4070451a5/"><img src = "https://github.com/dbennin125/dbennin125/blob/master/solidLinkedIn.png"></a>
+  <a href = "https://www.linkedin.com/in/dan-bennington/"><img src = "https://github.com/dbennin125/dbennin125/blob/master/solidLinkedIn.png"></a>
 </p>
 
 🔭 My current stack:
